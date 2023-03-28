@@ -12,7 +12,7 @@ matplotlib 3.7.1,
 seaborn 0.12.2,
 xgboost  1.7.4,
 scikit-learn 1.0.2,
-jupyterlab 3.5.2,
+jupyterlab 3.5.2
 
 Goal of the analysis: 
 Analysis of the Chronic_Kidney_Disease (CKD) Data Set (https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease) to help a physician understand:
