@@ -1,2 +1,2 @@
 # Chronic-Kidney-Disease
-Analysis of potential Chronic Kidney Diseaserisk factors
+Analysis of potential Chronic Kidney Disease risk factors
